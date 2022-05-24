@@ -1,10 +1,9 @@
 
-                       
-
+                      
 
 # Velocity
 
-https://user-images.githubusercontent.com/70212442/169976229-afb4be75-00c6-45c8-8ab9-cc90ef2193df.png
+![LogoProduct](https://user-images.githubusercontent.com/70212442/169977777-2fba26c2-5ec7-435e-8509-65369b2bc76f.png)
 
 
 Velocity Aims to Provide Students of Class 9,10,11,12 education on the subject computer free of cost.

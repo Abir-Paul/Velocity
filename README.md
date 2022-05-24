@@ -1,9 +1,11 @@
 
-                       ![LogoProduct](https://user-images.githubusercontent.com/70212442/169975818-aebfd877-6568-43dc-bdf2-e6f13f8328e4.png)
-
+                       
 
 
 # Velocity
+
+https://user-images.githubusercontent.com/70212442/169976229-afb4be75-00c6-45c8-8ab9-cc90ef2193df.png
+
 
 Velocity Aims to Provide Students of Class 9,10,11,12 education on the subject computer free of cost.
 We at Velocity understand the problems you face while you are studying this subject,

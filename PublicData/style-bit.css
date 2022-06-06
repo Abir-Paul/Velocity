@@ -1,0 +1,44 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(3.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.menu-ber{
+    background-color: chartreuse;
+    text-align: center;
+}
+.menu-ber ul{
+    display: inline-flex;
+    list-style: none;
+    color: lightblue;
+}
+.menu-ber ul li{
+    width: 120px;
+    margin: 15px;
+    padding: 20px;
+
+
+}
+.menu-ber ul li a{
+
+    text-decoration:none;
+    color: white;
+
+}
+.active, .menu-ber ul li :hover
+{
+    background: #2bab0d;
+    border-radius: 15px;
+}
+    
+    
+
